@@ -10,6 +10,19 @@ GUI application that helps you create a Text watermark or a Logo on a selected i
 * `pip install -r requirements.txt`
 * `python main.py`
 
+# Table of Contents
+
+1. [Image Viewer](#image-viewer)
+2. [Create Text watermark](#create-text-watermark-on-an-image)
+3. [Create Logo watermark](#create-logo-watermark-on-an-image)
+4. [View how Placements work](#placements)
+5. [View how Opacity works](#opacity)
+6. [View rules of Colors](#colors)
+7. [Tips and Errors](#tips-and-error-handling)
+8. [Libraries Used](#libraries-used)
+9. [Improvements Planned](#improvements-planned)
+
+
 ## How to use
 
 * Run the application using the Installation section (only on Windows, currently)
