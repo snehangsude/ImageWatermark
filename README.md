@@ -25,7 +25,7 @@ GUI application that helps you create a Text watermark or a Logo on a selected i
 * Select the **Font Style** that you'd like your text to be in. *(Default Font: Arial)*
 * Select the **Font Size** of appropriately. *(Default Size: 8)*
 * Select **Rotation** if you'd require any. *(Default Rotation: -360, which is no rotation - the text is displayed as it is)*
-* Select the **Opacity** of the text. *(Default Opacity: 0, which means transparent. Change it to **255** for it to be completely opaque, check [Opacity](#-Opacity))*
+* Select the **Opacity** of the text. *(Default Opacity: 0, which means transparent. Change it to **255** for it to be completely opaque, check [Opacity](##-Opacity))*
 * Select the **Placement** of the text. *(Default Placement: Bottom right (br), check [Placements](#-Placements) for more information)*
 * Select the **Color** of the text. *(Default color: 212121 (black), check [Colors](#-Colors) for more information)*
 * Select the **Margin X-axis** to dynamically move the text along the x-axis based on Placement. *(Default Margin X-axis: 210)
