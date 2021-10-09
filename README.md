@@ -24,9 +24,9 @@ GUI application that helps you create a Text watermark or a Logo on a selected i
 * Select the **Font Style** that you'd like your text to be in. *(Default Font: Arial)*
 * Select the **Font Size** of appropriately. *(Default Size: 8)*
 * Select **Rotation** if you'd require any. *(Default Rotation: -360, which is no rotation - the text is displayed as it is)*
-* Select the **Opacity** of the text. *(Default Opacity: 0, which means transparent. Change it to **255** for it to be completely opaque, check [Opacity](##Opacity))*
-* Select the **Placement** of the text. *(Default Placement: Bottom right (br), check [Placements](##Placements) for more information)*
-* Select the **Color** of the text. *(Default color: 212121 (black), check [Colors](##Colors) for more information)*
+* Select the **Opacity** of the text. *(Default Opacity: 0, which means transparent. Change it to **255** for it to be completely opaque, check [Opacity](## Opacity))*
+* Select the **Placement** of the text. *(Default Placement: Bottom right (br), check [Placements](## Placements) for more information)*
+* Select the **Color** of the text. *(Default color: 212121 (black), check [Colors](## Colors) for more information)*
 * Select the **Margin X-axis** to dynamically move the text along the x-axis based on Placement. *(Default Margin X-axis: 210)
 * Select the **Margin Y-axis** to dynamically move the text along the y-axis based on Placement. *(Default Margin Y-axis: 150)
 * Once all of the above has been set, click on **Add Text** to open a window to select an Image on which the watermark would be added. Opens on the current directory.
@@ -89,5 +89,5 @@ You can manually change all the above attributes now, and click on **Add Logo**,
 ### Improvements Planned
 - Currently two lines of text watermark has a bug and doesn't display. Fix to be applied. 
 - Rotation property to be included in the Logo watermark.
-- New attribute to be added which controls the Starting location of x,y co-ordinates for bl, tl, tr.
-- Diag and center placements to be refined.
+- New attribute to be added which controls the Starting location of x,y co-ordinates for `bl`, `tl`, `tr`.
+- `Diag` and `center` placements to be refined.
