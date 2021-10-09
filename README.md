@@ -1,5 +1,7 @@
 # ImageWatermark
 
+![GitHub](https://img.shields.io/github/license/snehangsude/ImageWatermark)
+
 GUI application that helps you create a Text watermark or a Logo on a selected image. 
 
 ### Written in python 3.10 
