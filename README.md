@@ -6,6 +6,7 @@ Generates Text or Logo as watermark on a selected image
 ## Installation on Windows:
 * `git clone https://github.com/snehangsude/ImageWatermark.git`
 * `cd ImageWatermark`
+* `pip install -r requirements.txt`
 * `python main.py`
 
 ## How to use
