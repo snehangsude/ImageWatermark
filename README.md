@@ -25,6 +25,11 @@ GUI application that helps you create a Text watermark or a Logo on a selected i
 9. [Improvements Planned](#improvements-planned)
 
 
+## Interface Examples
+
+<img src="images/Watermark.gif">
+Shows how each buttons work as well as how `opacity` varies from Text and Logo.
+
 ## How to use
 
 * Run the application using the Installation section (only on Windows, currently)
