@@ -50,8 +50,8 @@ You can manually change all the above attributes now and click on **Add Text**, 
 
 #### Create Logo watermark on an Image
 
-* Select the **Opacity** of the text. *(Default Opacity: 0, which means opaque. Changing it to **255** would make the logo white)*
-* Select the **Placement** of the text. *(Default Placement: Bottom right (br), check Placements for more information)*
+* Select the **Opacity** of the text. *(Default Opacity: 0, which means opaque. Changing it to **255** would make the logo white, check [Opacity](#opacity))*
+* Select the **Placement** of the text. *(Default Placement: Bottom right (br), check [Placements](#placements) for more information)*
 * Select the **Margin X-axis** to dynamically move the text along the x-axis based on Placement. *(Default Margin X-axis: 210)
 * Select the **Margin Y-axis** to dynamically move the text along the y-axis based on Placement. *(Default Margin Y-axis: 150)
 * Once all of the above has been set, click on **Add Logo** to open a window which allows you to **Select the Logo** (Displayed on the Dialogue box) first.
